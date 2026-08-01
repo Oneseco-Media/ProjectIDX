@@ -35,3 +35,12 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Ren'Py #
+##########
+renpy/game/**/*.rpyc
+renpy/game/saves/
+renpy/game/cache/
+renpy/game/tmp/
+renpy/**/*.rpa
+renpy/**/*.rpyc
